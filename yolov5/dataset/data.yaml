@@ -1,0 +1,5 @@
+train: D:\Github Projects\BCA180FINAL\BCA108-Final-Project\yolov5\dataset\train\images
+val: D:\Github Projects\BCA180FINAL\BCA108-Final-Project\yolov5\dataset\valid\images
+test: D:\Github Projects\BCA180FINAL\BCA108-Final-Project\yolov5\dataset\test\images
+nc: 2
+names: ['mask', 'no-mask']
