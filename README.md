@@ -1,6 +1,6 @@
-# BCA108 Final Project
+# Face Mask Detection Arduino Alarm
 
-BCA108 Final Project is a college project that combines computer vision and embedded-system behavior for real-time face mask detection using YOLOv5, webcam input, and Arduino-based hardware feedback.
+Face Mask Detection Arduino Alarm is a college project that combines computer vision and embedded-system behavior for real-time face mask detection using YOLOv5, webcam input, and Arduino-based hardware feedback.
 
 ## Overview
 
